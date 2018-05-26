@@ -1,0 +1,10 @@
+.DS_Store
+.dart_tool/
+.metadata
+.packages
+.pub/
+.idea
+build/
+weatherapp.iml
+weatherapp_android.iml
+.flutter-plugins
